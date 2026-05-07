@@ -99,7 +99,7 @@ specialization:
 
 </p>
 
----
+![snake gif](https://raw.githubusercontent.com/SUBARNA-2002/SUBARNA-2002/output/snake.svg)
 
 # 🧠 CURRENT_MISSION
 
@@ -144,4 +144,4 @@ while(alive) {
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
-![snake gif](https://raw.githubusercontent.com/SUBARNA-2002/SUBARNA-2002/output/snake.svg)
+
