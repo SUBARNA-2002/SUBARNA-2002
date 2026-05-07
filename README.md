@@ -25,10 +25,11 @@
 # 👨‍💻 USER_PROFILE.exe
 
 ```yaml
-name: "Subarna Sutar"
+name: "Subarna Keshari Sutar"
 role: "React & React Native Developer"
 location: "India 🇮🇳"
 experience: "2+ Years"
+
 specialization:
   - Mobile App Development
   - Frontend Engineering
@@ -39,7 +40,7 @@ specialization:
 
 ---
 
-# ⚙️ TECH MATRIX
+# ⚙️ TECH_MATRIX
 
 <p align="center">
 
@@ -57,7 +58,7 @@ specialization:
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-<a href="https://linkedin.com/in/subarna-keshari-sutar-/">
+<a href="https://linkedin.com/in/subarna-keshari-sutar">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
@@ -85,7 +86,7 @@ specialization:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SUBARNA-2002&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=SUBARNA-2002&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -95,10 +96,11 @@ specialization:
 
 <p align="center">
 
-![snake gif](https://raw.githubusercontent.com/SUBARNA-2002/SUBARNA-2002/output/snake.svg)
+<img src="https://raw.githubusercontent.com/SUBARNA-2002/SUBARNA-2002/output/snake.svg" alt="Snake animation" />
 
 </p>
 
+---
 
 # 🧠 CURRENT_MISSION
 
@@ -136,6 +138,20 @@ while(alive) {
 
 ---
 
+# 💀 SYSTEM_CORE
+
+```json
+{
+  "frontend": "React",
+  "mobile": "React Native",
+  "backend": "Node.js",
+  "database": "MongoDB",
+  "status": "Building futuristic experiences ⚡"
+}
+```
+
+---
+
 <div align="center">
 
 ### ⚡ END OF TRANSMISSION ⚡
@@ -143,4 +159,3 @@ while(alive) {
 <img src="https://komarev.com/ghpvc/?username=SUBARNA-2002&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
-
