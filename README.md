@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SUBARNA%20SUTAR&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20React%20Native%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SUBARNA%20KESHARI%20SUTAR&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20React%20Native%20Developer&descAlignY=60"/>
 
 </div>
 
