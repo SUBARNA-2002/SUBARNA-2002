@@ -70,13 +70,27 @@ specialization:
 
 ---
 
-# 📊 GITHUB_ANALYTICS.sys
+# 📊 NEURAL_ANALYTICS.exe
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUBARNA-2002&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUBARNA-2002&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBARNA-2002&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUBARNA-2002&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SUBARNA-2002&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUBARNA-2002&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUBARNA-2002&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
