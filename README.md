@@ -53,15 +53,15 @@ specialization:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SUBARNA-2002">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/subarna-keshari-sutar-/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sovonsutarsutar123@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
@@ -73,9 +73,9 @@ specialization:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUBARNA-2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBARNA-2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </p>
 
@@ -85,7 +85,7 @@ specialization:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=SUBARNA-2002&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </p>
 
@@ -130,7 +130,7 @@ while(alive) {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SUBARNA-2002&theme=matrix&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -140,7 +140,7 @@ while(alive) {
 
 ### ⚡ END OF TRANSMISSION ⚡
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SUBARNA-2002&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
