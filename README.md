@@ -68,28 +68,6 @@ specialization:
 
 </p>
 
----
-
-# 🌌 NEURAL_ANALYTICS_TOKYONIGHT
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUBARNA-2002&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌆 NEURAL_ANALYTICS_SYNTHWAVE
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUBARNA-2002&theme=synthwave"/>
-
-</p>
-
----
-
 # 🟩 NEURAL_ANALYTICS_MATRIX
 
 <p align="center">
@@ -97,7 +75,6 @@ specialization:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUBARNA-2002&theme=matrix"/>
 
 </p>
-# 📊 NEURAL_ANALYTICS.exe
 
 <p align="center">
 
