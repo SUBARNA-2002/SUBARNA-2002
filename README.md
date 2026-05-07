@@ -69,7 +69,53 @@ specialization:
 </p>
 
 ---
+# 🎨 THEME_SWITCHER.exe
 
+<p align="center">
+
+<a href="#-neural_analytics_tokyonight">
+<img src="https://img.shields.io/badge/TokyoNight-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="#-neural_analytics_synthwave">
+<img src="https://img.shields.io/badge/Synthwave-0D1117?style=for-the-badge&logo=github&logoColor=ff00ff"/>
+</a>
+
+<a href="#-neural_analytics_matrix">
+<img src="https://img.shields.io/badge/Matrix-0D1117?style=for-the-badge&logo=github&logoColor=00ff00"/>
+</a>
+
+</p>
+
+---
+
+# 🌌 NEURAL_ANALYTICS_TOKYONIGHT
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUBARNA-2002&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌆 NEURAL_ANALYTICS_SYNTHWAVE
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUBARNA-2002&theme=synthwave"/>
+
+</p>
+
+---
+
+# 🟩 NEURAL_ANALYTICS_MATRIX
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUBARNA-2002&theme=matrix"/>
+
+</p>
 # 📊 NEURAL_ANALYTICS.exe
 
 <p align="center">
