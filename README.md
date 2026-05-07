@@ -95,11 +95,10 @@ specialization:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation"/>
+![snake gif](https://raw.githubusercontent.com/SUBARNA-2002/SUBARNA-2002/output/snake.svg)
 
 </p>
 
-![snake gif](https://raw.githubusercontent.com/SUBARNA-2002/SUBARNA-2002/output/snake.svg)
 
 # 🧠 CURRENT_MISSION
 
